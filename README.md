@@ -6,3 +6,4 @@ node
 vscode
 serverless
 Aws lambda
+postgresql
